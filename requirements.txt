@@ -1,0 +1,8 @@
+numpy
+networkx
+requests
+tqdm
+mysql-connector-python
+openai
+matplotlib
+PyQt5
